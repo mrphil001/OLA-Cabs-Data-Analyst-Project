@@ -33,7 +33,7 @@ Ola Q&A Summary.sql – Query results for all 10 SQL tasks
 
 -Total successful booking value
 
--  Incomplete rides with reason
+-Incomplete rides with reason
 
 **2. Power BI Dashboard Key Visuals**
 -Ride Volume Over Time
