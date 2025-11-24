@@ -11,10 +11,13 @@ The analysis answers 20+ business questions using SQL queries, views, and intera
 OLA-Data-Analyst-Project/
 │
 ├── SQL/
+
 │   ├── Ola SQL Database.sql
+
 │   └── Ola Q&A Summary.sql
 │
 ├── PowerBI/
+
 │   └── Ola Dashboard.pbix
 
 **1. SQL Analysis Files**
