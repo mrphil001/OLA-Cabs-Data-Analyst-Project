@@ -1,7 +1,4 @@
-
-
 # OLA-Cabs-Data-Analyst-Project
-SQL + Power BI project analyzing OLA rides data. Includes SQL database, SQL solutions, PBIX dashboard, and project documentation.
 
 ![image alt](https://github.com/mrphil001/OLA-Cabs-Data-Analyst-Project/blob/2f8091255d2d9a58827c41434f9c348f30dd6227/dashboard-preview.png.png)
 
