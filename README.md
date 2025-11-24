@@ -14,7 +14,8 @@ Ola SQL Database.sql – Database creation + views for all questions
 
 Ola Q&A Summary.sql – Query results for all 10 SQL tasks
 
-**SQL Questions Solved**
+**2. SQL Questions Solved**
+
 -Retrieve all successful bookings
 
 -Avg ride distance by vehicle type
@@ -35,7 +36,7 @@ Ola Q&A Summary.sql – Query results for all 10 SQL tasks
 
 -Incomplete rides with reason
 
-**2. Power BI Dashboard Key Visuals**
+**3. Power BI Dashboard Key Visuals**
 -Ride Volume Over Time
 
 -Booking Status Breakdown
