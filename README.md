@@ -2,7 +2,7 @@
 
 ![image alt](https://github.com/mrphil001/OLA-Cabs-Data-Analyst-Project/blob/2f8091255d2d9a58827c41434f9c348f30dd6227/dashboard-preview.png.png)
 
-Overview:
+**Overview:**
 This project analyzes OLA ride data using SQL and Power BI to derive insights about customer behavior, vehicle performance, ride trends, cancellations, and revenue.
 The analysis answers 20+ business questions using SQL queries, views, and interactive Power BI visualizations.
 
