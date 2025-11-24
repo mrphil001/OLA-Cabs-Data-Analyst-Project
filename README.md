@@ -18,7 +18,9 @@ OLA-Data-Analyst-Project/
 │   └── Ola Dashboard.pbix
 
 **1. SQL Analysis Files**
+
 Ola SQL Database.sql – Database creation + views for all questions
+
 Ola Q&A Summary.sql – Query results for all 10 SQL tasks
 
 **SQL Questions Solved**
