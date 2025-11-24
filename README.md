@@ -6,7 +6,7 @@
 This project analyzes OLA ride data using SQL and Power BI to derive insights about customer behavior, vehicle performance, ride trends, cancellations, and revenue.
 The analysis answers 20+ business questions using SQL queries, views, and interactive Power BI visualizations.
 
-Project Structure
+**Project Structure**
 
 OLA-Data-Analyst-Project/
 │
@@ -17,11 +17,8 @@ OLA-Data-Analyst-Project/
 ├── PowerBI/
 │   └── Ola Dashboard.pbix
 
-**1. SQL Analysis**
-Files:
-
+**1. SQL Analysis Files**
 Ola SQL Database.sql – Database creation + views for all questions
-
 Ola Q&A Summary.sql – Query results for all 10 SQL tasks
 
 **SQL Questions Solved**
