@@ -82,14 +82,16 @@ This vehicle category likely contributes significantly to total revenue.
 **4. Ratings Analysis**
 Both customer ratings and driver ratings average around 4.
 
-**This suggests**
-Overall satisfaction is good.
+This suggest overall satisfaction is good.
 There is room to improve consistency to reach 4.5+ ratings.
 The stable rating pattern across vehicle types indicates uniform service quality.
 
 **Insights Summary**
 
 -Customers prefer cash, highlighting a traditional but dominant payment behavior.
+
 -Driver cancellations remain a major operational issue and require targeted intervention.
+
 -Prime Sedan stands out with the highest ride distance, making it a strong performer in the fleet.
+
 -Ratings averaging 4 stars show healthy service satisfaction, but improvement could further enhance customer trust.
