@@ -15,7 +15,6 @@ Ola SQL Database.sql – Database creation + views for all questions
 Ola Q&A Summary.sql – Query results for all 10 SQL tasks
 
 **SQL Questions Solved**
-
 -Retrieve all successful bookings
 
 -Avg ride distance by vehicle type
