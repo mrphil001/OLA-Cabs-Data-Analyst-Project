@@ -13,9 +13,11 @@ OLA-Data-Analyst-Project/
 
 ├── SQL/
 
+
 │   ├── Ola SQL Database.sql
 
 │   └── Ola Q&A Summary.sql
+
 
 
 ├── PowerBI/
