@@ -37,14 +37,23 @@ Ola Q&A Summary.sql – Query results for all 10 SQL tasks
 
 **2. Power BI Dashboard Key Visuals**
 -Ride Volume Over Time
+
 -Booking Status Breakdown
+
 -Top 5 Vehicle Types by Ride Distance
+
 -Average Customer Ratings by Vehicle Type
+
 -Cancellation Reasons
+
 -Revenue by Payment Method
+
 -Top 5 Customers by Booking Value
+
 -Ride Distance Distribution Per Day
+
 -Driver Ratings Distribution
+
 -Customer vs Driver Ratings
 
 **Key Conclusions Based on Dashboard Insights**
