@@ -8,22 +8,6 @@ The analysis answers 20+ business questions using SQL queries, views, and intera
 
 **Project Structure**
 
-OLA-Data-Analyst-Project/
-
-
-├── SQL/
-
-
-│   ├── Ola SQL Database.sql
-
-│   └── Ola Q&A Summary.sql
-
-
-
-├── PowerBI/
-
-│   └── Ola Dashboard.pbix
-
 **1. SQL Analysis Files**
 
 Ola SQL Database.sql – Database creation + views for all questions
@@ -31,15 +15,25 @@ Ola SQL Database.sql – Database creation + views for all questions
 Ola Q&A Summary.sql – Query results for all 10 SQL tasks
 
 **SQL Questions Solved**
+
 -Retrieve all successful bookings
+
 -Avg ride distance by vehicle type
+
 -Cancelled rides by customers
+
 -Top 5 customers by ride count
+
 -Driver-related cancellations
+
 -Max/min driver ratings for Prime Sedan
+
 -Rides paid using UPI
+
 -Avg customer rating per vehicle
+
 -Total successful booking value
+
 -  Incomplete rides with reason
 
 **2. Power BI Dashboard Key Visuals**
